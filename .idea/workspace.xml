@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2240e423-99d2-4d9f-9969-89cce66be570" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2BOpIECOJjlK1FvFtPFUVnYbavl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Match_n_pop/src" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="ShopManagement" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2240e423-99d2-4d9f-9969-89cce66be570" name="Changes" comment="" />
+      <created>1656786910449</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656786910449</updated>
+      <workItem from="1656786912479" duration="524000" />
+      <workItem from="1656787519369" duration="845000" />
+      <workItem from="1656918510233" duration="4157000" />
+      <workItem from="1656938947589" duration="4140000" />
+      <workItem from="1657203636026" duration="2642000" />
+      <workItem from="1657264788386" duration="2832000" />
+      <workItem from="1657292606407" duration="2588000" />
+      <workItem from="1657349074133" duration="1394000" />
+      <workItem from="1657370208588" duration="38000" />
+      <workItem from="1657788054753" duration="961000" />
+      <workItem from="1657919105320" duration="1100000" />
+      <workItem from="1658128251555" duration="129000" />
+      <workItem from="1658239900555" duration="727000" />
+      <workItem from="1658924316141" duration="36000" />
+      <workItem from="1680678241568" duration="898000" />
+      <workItem from="1680679166770" duration="87000" />
+      <workItem from="1681576275653" duration="32000" />
+      <workItem from="1690652252099" duration="1509000" />
+      <workItem from="1690744248237" duration="104000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
